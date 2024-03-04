@@ -8,12 +8,17 @@
   <a href="https://t.me/Strunkova_Olga">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
-<div id=badges>
+  </div>
+  
+<div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=Strunkova-Olga&style=flat-square&color=blue" alt=""/>
+
+
 <h1>
   Hi, I'm Strunkova-Olga
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
   
  ### :woman_technologist: About Me :
   
@@ -28,6 +33,10 @@ I am a Project Manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Strunkova_Olga-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Strunkova_Olga)
 
 ---
+
+### :hammer_and_wrench: Languages :
+
+![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
 
 
 

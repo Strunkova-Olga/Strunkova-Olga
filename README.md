@@ -15,28 +15,33 @@
 
 
 <h1>
-  Hi, I'm Strunkova-Olga
+  Привет, я Стрункова Ольга
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
   
- ### :woman_technologist: About Me :
+ ### :woman_technologist: Обо мне :
   
-I am a Project Manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+Проджект менеджер в IT <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Беларуси.
  
-- :telescope: I’m working as a Project Manager.
+- :telescope: Я в поисках работы, стажировки и pert-проектов
 
-- :seedling: Study and improve processes.
+- :seedling: Углубляю знания о процессах
 
-- :zap: In my free time I continue to learn English and Python.
+- :zap: В свободное время продолжаю учить английский и Python.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Strunkova_Olga-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Strunkova_Olga)
+- :mailbox:Как мне написать: [![Telegram Badge](https://img.shields.io/badge/Strunkova_Olga-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Strunkova_Olga)
 
 ---
 
-### :hammer_and_wrench: Languages :
+### :hammer_and_wrench: Языки :
 
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
 
+---
 
+### :fire: Мой статус :
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Strunkova-Olga)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strunkova-Olga)](https://github.com/anuraghazra/github-readme-stats)

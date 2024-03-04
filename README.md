@@ -14,3 +14,13 @@
   Hi, I'm Strunkova-Olga
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+### :woman_technologist: About Me :
+I am a Project Manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+ 
+- :telescope: I’m working as a Project Manager.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+
+- :mailbox:How to reach me: ![Telegram Badge](https://img.shields.io/badge/Strunkova_Olga-blue?style=flat&logo=Telegram&logoColor=white)

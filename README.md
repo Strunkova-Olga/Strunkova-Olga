@@ -23,4 +23,4 @@ I am a Project Manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
-- :mailbox:How to reach me: ![Telegram Badge](https://img.shields.io/badge/Strunkova_Olga-blue?style=flat&logo=Telegram&logoColor=white)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Strunkova_Olga-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Strunkova_Olga)
